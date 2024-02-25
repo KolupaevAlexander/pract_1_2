@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Дневник расходов</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">Фрагмент 1</string>
+    <string name="fragment2">Фрагмент 2</string>
+    <string name="addСonsumption">Добавить расход</string>
+    <string name="allConsumption">Все расходы</string>
+    <string name="settings">Настройки</string>
+    <string name="aboutapp">Справка</string>
+    <string name="edittext_NameConsumption">Наименование</string>
+    <string name="edittext_CategoryConsumption">Категория</string>
+    <string name="textview_CategoryConsumption">Категория расхода</string>
+    <string name="textview_NameConsumption">Наименование</string>
+    <string name="textview_DateConsumption">Дата</string>
+    <string name="textview_SumComsumption">Сумма</string>
+    <string name="emptyfields">Не все поля заполнены</string>
+    <string name="accept">Успешное добавление</string>
+    <string name="Redactor">Информация о расходе</string>
+    <string name="delСonsumption">Удалить</string>
+    <string name="editСonsumption">Редактировать</string>
+    <string name="delСonsumptions">Удалить все</string>
+    <string name="edit">Редактировать</string>
+    <string-array name="category">
+        <item>Продукты</item>
+        <item>Транспорт</item>
+        <item>Дом, услуги</item>
+        <item>Образование</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
